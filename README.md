@@ -1,4 +1,28 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there! My name is Thassanai  
+  <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/p5.gif" width=70 align="center">
+</h1>
+
+<div>
+  <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/parked.gif" align="right">
+  <li><b>Nickname:</b> Thass :star2: </li>
+  <li><b>From:</b> Thailand :earth_asia: </li>
+  <li><b>Location:</b> Ireland :earth_africa: </li>
+  <li><b>Studying:</b> Cybercrime & IT Security :computer: </li>
+  <li><b>College:</b> Institute of Technology Carlow :books: </li>
+  <li><b>Year:</b> 3 :date: </li>
+</div>
+
+<br>
+<h1></h1>
+<div>
+  <a href="https://tryhackme.com/p/Thasz">
+    <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/thm.png" width=90 align="left">
+  </a>
+  <b>Gmail:</b> thassanai.mccabe12@gmail.com<br>
+  <b>Discord:</b> Thasz#3068<br>
+  <b>< TryHackMe</b>
+</div>
 
 <!--
 **Thassanai546/Thassanai546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
