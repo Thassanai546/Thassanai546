@@ -8,7 +8,7 @@
   <li><b>Nickname:</b> Thass :star2: </li>
   <li><b>From:</b> Thailand :earth_asia: </li>
   <li><b>Location:</b> Ireland :earth_africa: </li>
-  <li><b>Studying:</b> Cybercrime & IT Security :computer: </li>
+  <li><b>Studying:</b> Bachelor of Science (Honours) in Cybercrime and IT Security :computer: </li>
   <li><b>College:</b> Institute of Technology Carlow :books: </li>
   <li><b>Year:</b> 3 :date: </li>
 </div>
