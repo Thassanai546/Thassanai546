@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there! My name is Thassanai  
-  <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/p5.gif" width=70 align="center">
+  <img src="https://user-images.githubusercontent.com/72495327/124330423-4df57f80-db85-11eb-8e0b-c29134452581.gif" width=70 align="center">
 </h1>
 
 <div>
