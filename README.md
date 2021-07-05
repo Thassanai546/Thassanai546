@@ -27,8 +27,6 @@
   <b>< TryHackMe</b>
 </div>
   
-  <h1></h1>
-  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00CF24&lines=%3E+Thank+you+for+visiting;%3E+Have+a+great+day!)](https://git.io/typing-svg)
 
 <!--
