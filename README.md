@@ -20,7 +20,7 @@
 <h1></h1>
 <div>
   <a href="https://tryhackme.com/p/Thasz">
-    <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/thm.png" width=75 align="left">
+    <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/thm2.png" width=80 align="left">
   </a>
   <b>Gmail:</b> thassanai.mccabe12@gmail.com  📫<br>
   <b>Discord:</b> Thasz#3068 💬 <br>
