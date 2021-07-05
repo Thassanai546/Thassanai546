@@ -22,11 +22,14 @@
   <a href="https://tryhackme.com/p/Thasz">
     <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/thm.png" width=90 align="left">
   </a>
-  <b>Gmail:</b> thassanai.mccabe12@gmail.com<br>
-  <b>Discord:</b> Thasz#3068<br>
+  <b>Gmail:</b> thassanai.mccabe12@gmail.com  📫<br>
+  <b>Discord:</b> Thasz#3068 💬 <br>
   <b>< TryHackMe</b>
 </div>
   
+  <h1></h1>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00CF24&lines=%3E+Thank+you+for+visiting;%3E+Have+a+great+day!)](https://git.io/typing-svg)
 
 <!--
 **Thassanai546/Thassanai546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
