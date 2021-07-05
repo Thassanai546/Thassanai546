@@ -11,7 +11,8 @@
   <li><b>Studying:</b> Bachelor of Science (Honours) in Cybercrime and IT Security :computer: </li>
   <li><b>College:</b> Institute of Technology Carlow :books: </li>
   <li><b>Year:</b> 3 :date: </li>
-  <br>
+  
+  <h1></h1>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
