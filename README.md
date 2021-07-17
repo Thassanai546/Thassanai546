@@ -22,9 +22,11 @@
   <a href="https://tryhackme.com/p/Thasz">
     <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/thm2.png" width=80 align="left">
   </a>
+  <a href="https://linkedin.com/in/thassanai-mccabe-a02a37217">
+    <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/91004.png?raw=true" width=80 align="left">
+  </a>
   <b>Gmail:</b> thassanai.mccabe12@gmail.com  📫<br>
   <b>Discord:</b> Thasz#3068 💬 <br>
-  <b>< TryHackMe</b>
 </div>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00CF24&lines=%3E+Thank+you+for+visiting;%3E+Have+a+great+day!)](https://git.io/typing-svg)
