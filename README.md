@@ -4,7 +4,6 @@
 </h1>
 
 <div>
-  <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/franchise2.gif?raw=true" align="right" width=50%>
   <li><b>Nickname:</b> Thass :star2: </li>
   <li><b>From:</b> Thailand :earth_asia: </li>
   <li><b>Location:</b> Ireland :earth_africa: </li>
