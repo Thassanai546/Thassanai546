@@ -16,6 +16,8 @@
   <h1></h1>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png" align=right width=160>
+  
   
 </div>
 <h1></h1>
