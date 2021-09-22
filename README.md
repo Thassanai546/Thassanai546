@@ -24,7 +24,7 @@
   <a href="https://tryhackme.com/p/Thasz">
     <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/thm2.png" width=80 align="left">
   </a>
-  <a href="https://www.linkedin.com/in/thass-mccabe/">
+  <a href="https://www.linkedin.com/in/thassanai-mcc/">
     <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/91004.png?raw=true" width=80 align="left">
   </a>
   <b>Gmail:</b> thassanai.mccabe12@gmail.com  📫<br>
