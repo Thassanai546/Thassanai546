@@ -16,8 +16,8 @@
 
 <p align="center">
   <!--Top languages and stats card-->
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact&theme=radical"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thassanai546&show_icons=true&theme=radical"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact&theme=dracula"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thassanai546&show_icons=true&theme=dracula"/>
 </p>
 
 <h1></h1>
