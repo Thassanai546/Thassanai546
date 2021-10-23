@@ -14,13 +14,16 @@
 
 <h1></h1>
   
-<div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
-</div>
+<p align="center">
+  <!--Top languages-->
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact&theme=radical"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thassanai546&show_icons=true&theme=radical"/>
+</p>
 
-<div align="left">
+
+<h1></h1>
+
+<div>
   
   <!-- If you're using "main" as default branch -->
   ![Metrics](https://github.com/Thassanai546/Thassanai546/blob/main/github-metrics.svg)
