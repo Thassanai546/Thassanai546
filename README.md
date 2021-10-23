@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/72495327/124330423-4df57f80-db85-11eb-8e0b-c29134452581.gif" width=70 align="center">
 </h1>
 
-<div align="left">
+<div>
   <li><b>Nickname:</b> Thass :star2: </li>
   <li><b>From:</b> Thailand :earth_asia: </li>
   <li><b>Location:</b> Ireland :earth_africa: </li>
@@ -13,21 +13,19 @@
 </div>
 
 <h1></h1>
-  
+
 <p align="center">
-  <!--Top languages-->
+  <!--Top languages and stats card-->
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact&theme=radical"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thassanai546&show_icons=true&theme=radical"/>
 </p>
 
-
 <h1></h1>
 
-<div>
-  
+<div align="center">
+  <!--Metrics-->
   <!-- If you're using "main" as default branch -->
-  ![Metrics](https://github.com/Thassanai546/Thassanai546/blob/main/github-metrics.svg)
-  
+  <img src="https://github.com/Thassanai546/Thassanai546/blob/main/github-metrics.svg">
 </div>
 
 <h1></h1>
