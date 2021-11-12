@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/72495327/124330423-4df57f80-db85-11eb-8e0b-c29134452581.gif" width=70 align="center">
 </h1>
 
-<img src="https://user-images.githubusercontent.com/72495327/138606572-b05e0547-e0eb-4425-9faf-0761ab7177c9.gif" width="30%" align="right">
+<img src="https://user-images.githubusercontent.com/72495327/138606572-b05e0547-e0eb-4425-9faf-0761ab7177c9.gif" width="37%" align="right">
 
 <div>
   <li><b>Nickname:</b> Thass :star2: </li>
