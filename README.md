@@ -2,7 +2,7 @@
   Hi there! My name is Thassanai
 </h1>
 
-<img src="https://user-images.githubusercontent.com/72495327/138606572-b05e0547-e0eb-4425-9faf-0761ab7177c9.gif" width="37%" align="right">
+<img src="https://user-images.githubusercontent.com/72495327/143786479-4da34c81-dbdf-4905-96ca-dcabc946d03a.gif" width="37%" align="right">
 
 <div>
   <li><b>Nickname:</b> Thass :star2: </li>
