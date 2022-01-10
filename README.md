@@ -11,7 +11,6 @@
   <li><b>Studying:</b> Bachelor of Science (Honours) in Cybercrime and IT Security :computer: </li>
   <li><b>College:</b> Institute of Technology Carlow :books: </li>
   <li><b>Year:</b> Penultimate :date: </li>
-  <li><b>Keyboard(s):</b> 1992 IBM Model M, Corsair K70, Ducky One 2 Mini </li>
 </div>
 
 <h1></h1>
