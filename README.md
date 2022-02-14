@@ -46,3 +46,5 @@
 <!--Typing_SVG-->
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F73B&width=500&lines=std%3A%3Acout+%3C%3C+%22Thank+you+for+visiting%22+;console.log(%22Have+a+great+day%22))](https://git.io/typing-svg)
+  
+  <!--Thank you Anurag Hazra & Simon Lecoq for the readme widgets -->
