@@ -39,6 +39,10 @@
   <a href="https://www.linkedin.com/in/thassanai-mcc/">
     <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/91004.png?raw=true" width=80 align="left">
   </a>
+  <a href="https://twitter.com/mako_reactor1">
+    <img src="https://user-images.githubusercontent.com/72495327/159191223-5a2550c7-e643-4671-a8a7-ec1435922c4b.png" width=80 align="left">
+  </a>
+
   <b>Gmail:</b> thassanai.mccabe12@gmail.com  📫<br>
   <b>Discord:</b> Thasz#3068 💬 <br>
 </div>
