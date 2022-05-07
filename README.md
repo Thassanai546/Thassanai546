@@ -1,6 +1,10 @@
-<h1 align="center">
+<h2 align="center">
+  
+  ```
   Hi there! My name is Thassanai
-</h1>
+  ```
+  
+</h2>
 
 <p align="center">
   <!--Top languages and stats card-->
