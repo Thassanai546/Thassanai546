@@ -1,11 +1,3 @@
-<p align="center">
-  <!--Top languages and stats card-->
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact&theme=dracula"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thassanai546&show_icons=true&theme=dracula"/>
-</p>
-
-<h2></h2>
-
 <div align="center">
   <!--Metrics-->
   <!-- If you're using "main" as default branch -->
