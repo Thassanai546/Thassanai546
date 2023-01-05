@@ -4,9 +4,10 @@
   <img src="https://github.com/Thassanai546/Thassanai546/blob/main/github-metrics.svg">
 </div>
 
-<h2></h2>
+<br>
 
 <div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact&theme=highcontrast"/>
   <a href="https://tryhackme.com/p/Thasz">
     <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/thm2.png" width="8%">
   </a>
@@ -14,3 +15,4 @@
     <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/91004.png" width="8%">
   </a>
 </div>
+
