@@ -7,7 +7,6 @@
 <br>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassanai546&layout=compact&theme=highcontrast"/>
   <a href="https://tryhackme.com/p/Thasz">
     <img src="https://github.com/Thassanai546/Thassanai546/blob/main/Assets/thm2.png" width="85px">
   </a>
