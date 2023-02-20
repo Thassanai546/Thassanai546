@@ -4,7 +4,7 @@
   <img src="https://github.com/Thassanai546/Thassanai546/blob/main/github-metrics.svg">
 </div>
 
-<br>
+#
 
 <div align="center">
   <a href="https://tryhackme.com/p/Thasz">
@@ -15,3 +15,10 @@
   </a>
 </div>
 
+##
+
+<a href="https://gist.github.com/Thassanai546">
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/72495327/219989317-b67c887a-33a1-42ae-9844-69318f3ad390.png" width="300px"/>
+  </div>
+</a>
