@@ -21,15 +21,8 @@
       width="85"
     />
   </a>
+  <img
+    src="https://user-images.githubusercontent.com/72495327/222811988-07a7d3f4-3f3e-4aa0-b6a0-2b8bb6e3c313.png"
+    width="300px"
+  />
 </div>
-
-##
-
-<a href="https://gist.github.com/Thassanai546">
-  <div align="center">
-    <img
-      src="https://user-images.githubusercontent.com/72495327/222811988-07a7d3f4-3f3e-4aa0-b6a0-2b8bb6e3c313.png"
-      width="300px"
-    />
-  </div>
-</a>
