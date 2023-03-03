@@ -3,6 +3,7 @@
   <!-- If you're using "main" as default branch -->
   <img
     src="https://github.com/Thassanai546/Thassanai546/blob/main/github-metrics.svg"
+    width="500px"
   />
 </div>
 
