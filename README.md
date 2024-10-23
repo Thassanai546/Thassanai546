@@ -7,9 +7,9 @@
     alt="GitHub Metrics"
   />
 <br><br>
-<img src="https://i.imgur.com/fjArpDx.gif" height=100 />
-<a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" height=100 /></a>
-<img src="https://i.imgur.com/CtCGyzQ.gif" height=100 />
+<img src="https://i.imgur.com/fjArpDx.gif" width=150 />
+<a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" width=150 /></a>
+<img src="https://i.imgur.com/CtCGyzQ.gif" width=150 />
 <br>
 <h4>www.keychron.com</h4>
 </div>
