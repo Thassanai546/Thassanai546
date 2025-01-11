@@ -11,5 +11,5 @@
 <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" width=150 /></a>
 <img src="https://i.imgur.com/CtCGyzQ.gif" width=150 />
 <br>
-<h4>www.keychron.com</h4>
+| <a href="www.keychron.com">Keychron</a> | <a href="https://www.emailnator.com">Burner Emails</a> |
 </div>
