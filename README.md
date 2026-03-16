@@ -7,5 +7,5 @@
     alt="GitHub Metrics"
   />
   <br>
-| <a href="www.keychron.com">Keychron</a> | <a href="https://www.emailnator.com">Burner Emails</a> | <a href="https://imgur.com/tVqqH5O">MX Master Config</a> | <a href="https://unit42.paloaltonetworks.com/">Unit42</a> |
+| <a href="https://www.keychron.com">Keychron</a> | <a href="https://www.emailnator.com">Burner Emails</a> | <a href="https://imgur.com/tVqqH5O">MX Master Config</a> | <a href="https://unit42.paloaltonetworks.com/">Unit42</a> |
 </div>
