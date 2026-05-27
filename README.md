@@ -28,5 +28,6 @@
  ┃ ┣ attribution.txt    [0 bytes]  # Blaming APT groups is hard 
  ┃ ┣ clear_signals.log  [--:--]    # Just background noise here
  ┃ ┗ false_positives/   [PURGED]   # Keeping the alerts clean
- ┗ profile.cfg          [100% ]```
+ ┗ profile.cfg          [100% ]
+```
 </div>
