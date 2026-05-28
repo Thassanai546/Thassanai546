@@ -7,17 +7,17 @@
     alt="GitHub Metrics"
   />
   <br>
-| <a href="https://www.keychron.com">Keychron</a> | <a href="https://www.emailnator.com">Burner Emails</a> | <a href="https://imgur.com/tVqqH5O">MX Master Config</a> | <a href="https://unit42.paloaltonetworks.com/">Unit42</a> |
+-=[ <a href="https://www.keychron.com">Keychron</a> | <a href="https://shop.hak5.org/">Pentest Tools & Media</a> | <a href="https://flipper.net/">Flipper Zero</a> | <a href="https://unit42.paloaltonetworks.com/">Unit42</a> | <a href="https://phrack.org/">Phrack</a> | <a href="https://otx.alienvault.com/">Open Threat Exchange</a> ]=-
 </div>
 <br>
 <div style="max-width: 550px;">
   
   ```text
-----------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 🎯 INTEL  :: [Role: Threat Intelligence Researcher] [Geo: 🇮🇪 Ireland]
 ✨ THANKS :: [To: The people who continue to support, mentor, and teach me every day]
 ✨ METRIC :: [Status: Learning]
-----------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 
  threat-intel-nexus
  ┣ everything/
